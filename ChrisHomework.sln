@@ -1,11 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditMode", "EditMode.csproj", "{09882c7f-5cf1-c60b-22dd-13177ccca359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMode", "PlayMode.csproj", "{6a7bd830-c465-1f47-108c-d29980fab6a6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{f7666f36-dfe6-5f48-cb4f-7aa7c2afc96a}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09882c7f-5cf1-c60b-22dd-13177ccca359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09882c7f-5cf1-c60b-22dd-13177ccca359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6a7bd830-c465-1f47-108c-d29980fab6a6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6a7bd830-c465-1f47-108c-d29980fab6a6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f7666f36-dfe6-5f48-cb4f-7aa7c2afc96a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f7666f36-dfe6-5f48-cb4f-7aa7c2afc96a}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
