@@ -4,3 +4,6 @@
 /Temp
 /UserSettings
 /builds
+/obj
+
+*.sln
